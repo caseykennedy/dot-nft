@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="100%"
+  viewBox="0 0 374.71 350.08">
+  <defs>
+    <style>
+      .secure-id-1,
+      .secure-id-5 {
+        fill: none;
+      }
+
+      .secure-id-1,
+      .secure-id-2,
+      .secure-id-6 {
+        stroke: #000;
+      }
+
+      .secure-id-1,
+      .secure-id-2,
+      .secure-id-5,
+      .secure-id-6 {
+        stroke-miterlimit: 10;
+      }
+
+      .secure-id-2,
+      .secure-id-6 {
+        fill: #eee;
+      }
+
+      .secure-id-2 {
+        stroke-width: 0.96px;
+      }
+
+      .secure-id-3 {
+        fill: url(#radial-gradient--secure-id);
+      }
+
+      .secure-id-4 {
+        fill: #e8e8e8;
+        fill-rule: evenodd;
+      }
+
+      .secure-id-5 {
+        stroke: #1a1a1a;
+        stroke-width: 3.52px;
+      }
+    </style>
+    <radialGradient id="radial-gradient--secure-id" cx="200.5" cy="189.28" r="25.11" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7dbeff" />
+      <stop offset="0.24" stop-color="#63b1ff" />
+      <stop offset="0.52" stop-color="#4ba5ff" />
+      <stop offset="0.78" stop-color="#3d9eff" />
+      <stop offset="1" stop-color="#389cff" />
+    </radialGradient>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="ART">
+      <polygon class="secure-id-1" points="27.55 304.03 249.66 349.47 249.66 127.36 27.55 81.92 27.55 304.03" />
+      <line class="secure-id-1" x1="27.55" y1="304.03" x2="152.1" y2="222.73" />
+      <line class="secure-id-1" x1="249.66" y1="127.36" x2="374.21" y2="49.4" />
+      <line class="secure-id-1" x1="27.55" y1="81.92" x2="152.1" y2="0.62" />
+      <line class="secure-id-1" x1="374.21" y1="271.51" x2="249.66" y2="349.47" />
+      <polygon class="secure-id-1" points="152.1 222.73 374.21 271.51 374.21 49.4 152.1 0.62 152.1 222.73" />
+      <path class="secure-id-2"
+        d="M123.34,114v76.9c0,47.64,77.54,86.31,77.54,86.31s77.54-38.67,77.54-86.31V114L200.88,81.6Z" />
+      <polygon class="secure-id-1" points="27.55 304.03 249.66 349.47 249.66 127.36 27.55 81.92 27.55 304.03" />
+      <line class="secure-id-1" x1="249.66" y1="127.36" x2="374.21" y2="49.4" />
+      <rect class="secure-id-3" x="178.83" y="167.84" width="44.09" height="32.54" rx="3.43" />
+      <path class="secure-id-4" d="M203.24,184.81a4.43,4.43,0,1,0-4.72,0L197,191.6h7.8Z" />
+      <path class="secure-id-5" d="M218.74,167.84v-12c0-4.46-2.57-8.08-6.53-8.08H189.13c-4,0-6.53,3.62-6.53,8.08v12" />
+      <path class="secure-id-2"
+        d="M56.81,224.86l-34.44-6.24A18.57,18.57,0,0,0,.48,236.9v33.82A18.58,18.58,0,0,0,15.74,289l34.44,6.25A18.57,18.57,0,0,0,72.07,277V243.14A18.59,18.59,0,0,0,56.81,224.86Z" />
+      <path
+        d="M53.52,256.54q-3.18,1.72-9.28,5.1a.9.9,0,0,0-.44,1.05q.73,2.54,2,7c.52,1.8,1,3.35,1.34,4.67a.9.9,0,0,1-1.47.91l-9.65-8.71a.92.92,0,0,0-1-.14q-1.83.9-9.95,4.71a.9.9,0,0,1-1.24-1.1q3.64-11.12,3.64-11.43s-3.31-3.25-9.92-9.69a.9.9,0,0,1,.8-1.53l10.81,2.06.93.17a.48.48,0,0,0,.55-.31q1.34-3.5,3.91-10.41a.91.91,0,0,1,1.71,0q2.4,7.26,4.14,12.62a.44.44,0,0,0,.28.3,5.79,5.79,0,0,0,.67.25q4.56,1,11.91,2.75A.9.9,0,0,1,53.52,256.54Z" />
+      <path class="secure-id-6"
+        d="M61.43,286.33,81.89,237a1.12,1.12,0,0,1,1.25-.66l5.45,1.09A1.11,1.11,0,0,1,89.4,239L68.87,288.27a1.12,1.12,0,0,1-1.25.66l-5.38-1.08A1.11,1.11,0,0,1,61.43,286.33Z" />
+    </g>
+  </g>
+</svg>

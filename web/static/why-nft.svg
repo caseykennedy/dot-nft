@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 562.49 377.03">
+  <defs>
+    <style>
+      .whynft-1 {
+        fill: #5fa2f8;
+        stroke-width: 0.29px;
+      }
+
+      .whynft-1,
+      .whynft-2,
+      .whynft-4,
+      .whynft-6 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .whynft-2,
+      .whynft-4,
+      .whynft-6 {
+        fill: none;
+      }
+
+      .whynft-3 {
+        fill: #fff;
+      }
+
+      .whynft-4 {
+        stroke-width: 0.93px;
+      }
+
+      .whynft-5 {
+        fill: #3984f7;
+      }
+
+      .whynft-6 {
+        stroke-width: 0.75px;
+      }
+    </style>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_2-2" data-name="Layer 2">
+      <rect class="whynft-1" x="431.35" y="97.38" width="108.46" height="108.46"
+        transform="translate(721.74 602.18) rotate(-135)" />
+      <line class="whynft-2" x1="38.86" y1="376.28" x2="38.86" y2="356.52" />
+      <line class="whynft-2" x1="68.52" y1="376.28" x2="68.52" y2="348.47" />
+      <line class="whynft-2" x1="98.17" y1="376.28" x2="98.17" y2="340.42" />
+      <line class="whynft-2" x1="127.83" y1="376.28" x2="127.83" y2="332.38" />
+      <line class="whynft-2" x1="157.48" y1="376.28" x2="157.48" y2="324.33" />
+      <line class="whynft-2" x1="187.14" y1="376.28" x2="187.14" y2="316.28" />
+      <line class="whynft-2" x1="216.79" y1="376.28" x2="216.79" y2="308.24" />
+      <line class="whynft-2" x1="246.45" y1="376.28" x2="246.45" y2="300.19" />
+      <line class="whynft-2" x1="276.1" y1="376.28" x2="276.1" y2="292.14" />
+      <line class="whynft-2" x1="305.76" y1="376.28" x2="305.76" y2="284.1" />
+      <line class="whynft-2" x1="335.41" y1="376.28" x2="335.41" y2="276.05" />
+      <line class="whynft-2" x1="365.07" y1="376.28" x2="365.07" y2="268.01" />
+      <line class="whynft-2" x1="394.72" y1="376.28" x2="394.72" y2="259.96" />
+      <line class="whynft-2" x1="424.38" y1="376.28" x2="424.38" y2="251.91" />
+      <line class="whynft-2" x1="454.03" y1="376.28" x2="454.03" y2="243.87" />
+      <line class="whynft-2" x1="483.69" y1="376.28" x2="483.69" y2="235.82" />
+      <line class="whynft-2" x1="513.34" y1="376.28" x2="513.34" y2="227.77" />
+      <line class="whynft-2" x1="543" y1="376.28" x2="543" y2="219.73" />
+      <circle class="whynft-3" cx="255.86" cy="151.34" r="144.83" />
+      <path
+        d="M255.86,7.45A143.88,143.88,0,0,1,357.6,253.08,143.89,143.89,0,1,1,154.11,49.59,142.94,142.94,0,0,1,255.86,7.45m0-.94A144.83,144.83,0,1,0,400.68,151.34,144.83,144.83,0,0,0,255.86,6.51Z" />
+      <path class="whynft-4" d="M255.31,296.16c-3.85-2.39-82.82-53.52-80.84-148.39,1.89-90.34,75.44-137.9,80.84-141.26" />
+      <path class="whynft-4" d="M255.31,296.16c3.85-2.39,82.81-53.52,80.83-148.39C334.25,57.43,260.7,9.87,255.31,6.51" />
+      <path class="whynft-4" d="M255.31,296.16q.27-72.41.55-144.82-.29-72.42-.55-144.83" />
+      <path class="whynft-4" d="M110.75,151.06l144.83.55,144.83-.55" />
+      <line class="whynft-4" x1="129.31" y1="221.81" x2="382.41" y2="221.81" />
+      <line class="whynft-4" x1="129.31" y1="83.28" x2="382.41" y2="83.28" />
+      <rect x="9.24" y="96.78" width="7.15" height="7.15" />
+      <rect x="9.24" y="111.08" width="7.15" height="7.15" />
+      <rect x="2.09" y="103.93" width="7.15" height="7.15" />
+      <rect x="16.39" y="103.93" width="7.15" height="7.15" />
+      <rect x="535.27" width="13.02" height="13.02" rx="6.51" />
+      <circle class="whynft-5" cx="5.49" cy="371.54" r="5.49" />
+      <polyline class="whynft-6" points="191.77 185.72 123.42 185.72 55.4 253.74 5.26 253.74" />
+      <circle class="whynft-6" cx="199.33" cy="185.72" r="7.56" />
+    </g>
+  </g>
+</svg>

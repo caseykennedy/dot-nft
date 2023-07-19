@@ -1,0 +1,50 @@
+<svg height="fit-content" viewBox="0 0 149 194" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path
+    d="M76.7691 170.176H7.79416C4.04142 170.176 1 167.134 1 163.382V7.794C1 4.04126 4.04142 0.999844 7.79416 0.999844H141.205C144.958 0.999844 148 4.04126 148 7.794V163.382C148 167.134 144.958 170.176 141.205 170.176H139.638"
+    stroke="#999999" stroke-width="1.5" stroke-miterlimit="10" />
+  <path d="M86.867 159.095L77.3339 193.015L90.3309 186.144L103.331 193.015V159.095H86.867Z"
+    fill="url(#paint0_radial--verify)" />
+  <path d="M113.243 159.095V193.015L126.24 186.144L139.234 193.015L129.706 159.095H113.243Z"
+    fill="url(#paint1_radial--verify)" />
+  <path
+    d="M101.771 103.566L92.3879 100.339L90.49 110.078L80.7491 111.976L83.9779 121.357L76.487 127.873L83.9779 134.385L80.7491 143.769L90.49 145.664L92.3879 155.408L101.771 152.177L108.283 159.668L114.796 152.177L124.178 155.408L126.075 145.664L135.818 143.769L132.589 134.385L140.081 127.873L132.589 121.357L135.818 111.976L126.075 110.078L124.178 100.339L114.796 103.566L108.283 96.0756L101.771 103.566Z"
+    fill="url(#paint2_radial--verify)" />
+  <path
+    d="M124.178 155.408L126.075 145.665L135.818 143.769L132.589 134.385L140.081 127.873L132.589 121.358L135.818 111.976L126.075 110.078L124.178 100.339L114.797 103.565L108.283 96.0755L101.771 103.565L92.3879 100.339L90.491 110.078L80.7482 111.976L83.9779 121.358L76.4871 127.873L83.9779 134.385L80.7482 143.769L90.491 145.665L92.3879 155.408L101.771 152.176L108.283 159.668L114.797 152.176L124.178 155.408Z"
+    stroke="white" stroke-width="1.244" stroke-miterlimit="10" />
+  <path
+    d="M93.8257 127.871C93.8257 119.883 100.302 113.414 108.283 113.414C116.272 113.414 122.742 119.883 122.742 127.871C122.742 135.852 116.272 142.325 108.283 142.325C100.302 142.326 93.8257 135.852 93.8257 127.871Z"
+    stroke="white" stroke-width="2.048" stroke-miterlimit="10" />
+  <path d="M13.1137 60.2089H137.214" stroke="#999999" stroke-width="4.44667" stroke-miterlimit="10" />
+  <path d="M13.1137 76.4814H137.214" stroke="#999999" stroke-width="4.44667" stroke-miterlimit="10" />
+  <path d="M13.1137 92.7542H137.214" stroke="#999999" stroke-width="4.44667" stroke-miterlimit="10" />
+  <path d="M13.1137 109.027H72.1233" stroke="#999999" stroke-width="4.44667" stroke-miterlimit="10" />
+  <path d="M13.1138 25.3609V39.5171L25.3731 46.5952L37.6335 39.5171V25.3609L25.3731 18.2828L13.1138 25.3609Z"
+    fill="url(#paint3_radial--verify)" />
+  <defs>
+    <radialGradient id="paint0_radial--verify" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse"
+      gradientTransform="translate(106.633 167.737) rotate(-90) scale(30.7785)">
+      <stop stop-color="#00E9D9" />
+      <stop offset="0.799087" stop-color="#00E9D9" />
+      <stop offset="1" stop-color="white" />
+    </radialGradient>
+    <radialGradient id="paint1_radial--verify" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse"
+      gradientTransform="translate(106.633 167.737) rotate(-90) scale(30.7785)">
+      <stop stop-color="#00E9D9" />
+      <stop offset="0.799087" stop-color="#00E9D9" />
+      <stop offset="1" stop-color="white" />
+    </radialGradient>
+    <radialGradient id="paint2_radial--verify" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse"
+      gradientTransform="translate(108.284 127.872) scale(31.7967)">
+      <stop stop-color="#007DFF" />
+      <stop offset="0.790401" stop-color="#007DFF" />
+      <stop offset="1" stop-color="white" />
+    </radialGradient>
+    <radialGradient id="paint3_radial--verify" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse"
+      gradientTransform="translate(25.3734 32.4392) scale(13.2421)">
+      <stop stop-color="#00E9D9" />
+      <stop offset="0.799087" stop-color="#00E9D9" />
+      <stop offset="1" stop-color="white" />
+    </radialGradient>
+  </defs>
+</svg>
